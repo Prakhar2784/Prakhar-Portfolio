@@ -37,7 +37,7 @@ export const profile: ProfileConfig = {
   github: "https://github.com/Prakhar2784",
   linkedin: "https://www.linkedin.com/in/prakharkedia/",
   resumePdf: "/resume.pdf",
-  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || "https://prakharkedia.dev",
+  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || "https://prakhar-portfolio-mocha.vercel.app",
   bio: {
     lead: "I'm Prakhar Kedia, a Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning at Bennett University.",
     body1:

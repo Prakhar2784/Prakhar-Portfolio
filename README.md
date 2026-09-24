@@ -3,7 +3,7 @@
 # Prakhar Kedia
 ### Software Engineer • AI/ML • Full-Stack Development
 
-[![Website](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://prakharkedia.dev)
+[![Website](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://prakhar-portfolio-mocha.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prakharkedia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakharkedia/)
 [![GitHub](https://img.shields.io/badge/GitHub-Prakhar2784-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prakhar2784)
 [![Email](https://img.shields.io/badge/Email-kediaprakhar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kediaprakhar@gmail.com)
