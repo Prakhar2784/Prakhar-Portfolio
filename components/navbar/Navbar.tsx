@@ -9,10 +9,10 @@ import { Menu, X, FileText, Command } from "lucide-react";
 import { profile } from "@/data/profile";
 
 const navLinks = [
+  { name: "About", href: "/#about" },
   { name: "Work", href: "/#work" },
   { name: "Experience", href: "/#experience" },
   { name: "Skills", href: "/#skills" },
-  { name: "About", href: "/#about" },
   { name: "Contact", href: "/#contact" },
 ];
 
